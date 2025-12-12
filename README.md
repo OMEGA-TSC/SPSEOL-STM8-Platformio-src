@@ -15,11 +15,12 @@ Tento návod popisuje, jak zprovoznit vývojové prostředí pro mikrokontrolery
 - Překopírovat do projektu složky **src**, **include** a soubor **platformio.ini** do kořenové složky.
 
 Struktura projektu:
+```
 projekt/
 ├── src/
 ├── include/
 ├── platformio.ini
-
+```
 ### 3. Kompilace a upload
 - Spustit **Build** (✓)
 - Spustit **Upload** (→)
